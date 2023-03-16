@@ -1,1 +1,1 @@
-React/Typescript/Tailwind/ReduxToolkit
+Boilerplate repo
